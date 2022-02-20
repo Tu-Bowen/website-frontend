@@ -1,0 +1,11 @@
+.card{
+    width: 275px;
+    text-align: center;
+}
+.item{
+    cursor: pointer;
+}
+.item:hover{
+    background-color: #1e90ff;
+    color: white;
+}
